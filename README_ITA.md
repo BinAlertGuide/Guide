@@ -1,5 +1,4 @@
-# Guide
-Questa guida  [BinAlert](https://t.me/BinAlertChannel)
+# GUIDA per [BinAlert](https://t.me/BinAlertChannel)
 
 ## COME SI USA?
   
