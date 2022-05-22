@@ -1,5 +1,5 @@
 # Guide
-Guide for [BinAlert](https://t.me/BinAlertChannel)
+Questa guida  [BinAlert](https://t.me/BinAlertChannel)
 
 ## COME SI USA?
   
@@ -37,7 +37,7 @@ Buon trading a tutti!
 ## P.S.  
   
 Ti abbiamo fatto fare dei bei guadagni?  
-Lascia una donazione e avremo più grinta per migliorare  
+Lascia una donazione e avremo più grinta per migliorare!
   
 **XLM**: 
 GA5T2YRETLDAN4OHHSANKEOEMJW2YDXMX7YIU6NVIXDLCSJJRWAKIN63
