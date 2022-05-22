@@ -17,6 +17,7 @@ Timer scansione: 15 minuti
 * 🚀: Nuova entrata con % maggiore del 10% 
 * 📊: Nuovo massimo da 2 giorni 
 * 📶: Lo scambio di volumi è triplicato rispetto al giorno precedente
+* ⚠️: Il rank della moneta (in capitalizzazione di mercato) è superiore a 1000. I dati sono forniti da [Coingecko](https://www.coingecko.com/en/api)
  
 Bitcoin trend: In base al trend su alcune fascie orarie indica l'andamento generale. 
 * 🔴 Negativo 
