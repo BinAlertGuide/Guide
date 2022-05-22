@@ -17,6 +17,7 @@ Timer scan: every 15 minutes.
 * 🚀: New entry with a percentage greater than 10%
 * 📊: New maximum price since 2 days
 * 📶: Volume exchange's triplicated compared the previous day.
+* ⚠️: The token's rank (the marketcap ranke) is over 1000. Datas are provided from [Coingecko](https://www.coingecko.com/en/api)
 
 Bitcoin trend: Based upone its trend in some time slots the general trend becomes the same for most of the tokens.
 * 🔴 Negative
