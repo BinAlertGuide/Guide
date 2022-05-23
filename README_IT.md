@@ -2,7 +2,8 @@
 
 ## COME SI USA?
   
-BINALERT scansiona tutte le coin di Binance e segnala i rialzi a partire dalle ultime 3 ore 
+BINALERT scansiona tutte le coin di Binance e segnala i rialzi a partire dalle ultime 3 ore.
+La scansione avviene su Binance ma ovviamente puoi utilizzarlo con qualunque exchange.
 
 La sua duplice funzione è scovare un trend appena iniziato o di far approfittare di un eccesso con uno short, questo anche in base al trend di Bitcoin che è un indicatore FONDAMENTALE per la corretta lettura.  
   
