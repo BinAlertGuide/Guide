@@ -2,7 +2,7 @@
 
 ## HOW TO USE IT?
 
-BINALERT scans every coin listed in Binance and signals uptrends of the past 3 hours
+BINALERT scans every coin listed in Binance and signals uptrends of the past 3 hours. Scans comes from Binance but you can use those info for every exchange you want.
 
 Its double function is to find starting trends or to take advantage of an exceeding trend with a short, also based upon Bitcoin's trend which is a FOUNDAMENTAL indicator if you want to correctly read the informations.
 
@@ -12,19 +12,21 @@ Its double function is to find starting trends or to take advantage of an exceed
 
 Timer scan: every 15 minutes.
 
+**SMA200%**: Refers to the percentage distance between the price and the SMA 200 periods with daily timeframe.
+
 * 📗: The token's percentage grew more compared to the previous slide. 
 * 🆕: New entry (compared to the previous slide)
 * 🚀: New entry with a percentage greater than 10%
 * 📊: New maximum price since 2 days
 * 📶: Volume exchange's triplicated compared the previous day.
-* ⚠️: The token's rank (the marketcap ranke) is over 1000. Datas are provided from [Coingecko](https://www.coingecko.com/en/api)
+* ⚠️: The marketcap of the token is very low; This can lead to an higher risk of extreme volatility (higher uptrends or higher lowtrends). Datas are provided from [Coingecko](https://www.coingecko.com/en/api)
 
-Bitcoin trend: Based upone its trend in some time slots the general trend becomes the same for most of the tokens.
+**Bitcoin trend**: Based upone its trend in some time slots the general trend becomes the same for most of the tokens.
 * 🔴 Negative
 * 🟢 Positive
 * ⚪️ Lateral
 
-SMA200%: Refers to the percentage distance between the price and the SMA 200 periods with daily timeframe.
+
 
 ### General indications
 
