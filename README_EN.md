@@ -32,7 +32,7 @@ Timer scan: every 15 minutes.
 
 Pay attention to higher ranks, you will have extreme movements and you will have to face i higher risk to loose money.
 
-Do you need any help? Take a look at [BinAlertSupport](https://t.me/BinAlertSupport), you will find what you need for sure.
+Do you need any help? Take a look at [BinAlertSupport](https://t.me/BinAlertSupportEng), you will find what you need for sure.
 
 Happy trading everyone!
 
