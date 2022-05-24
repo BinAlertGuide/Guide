@@ -31,8 +31,6 @@ Timer scansione: 15 minuti
 
 ### Indicazioni generali
 
-Fare attenzione a Rank troppo alti, avrete movimenti più estremi insieme al rischio di rimanere con il cerino in mano. 
-
 Hai bisogno di supporto? Entra in [BinAlertSupport](https://t.me/BinAlertSupport), troverai sicuramente quello che cerchi
 
 Buon trading a tutti!  
